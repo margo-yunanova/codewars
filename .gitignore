@@ -1,0 +1,19 @@
+# Local Netlify folder
+.netlify
+node_modules/.package-lock.json
+node_modules/.deno/.deno.lock
+node_modules/.deno/.deno.lock.poll
+node_modules/.deno/.setup-cache.bin
+node_modules/.deno/@netlify+edge-functions@2.8.1/.initialized
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/package.json
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/README.md
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/index.d.ts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/index.mjs
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/version.d.mts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/version.mjs
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/bootstrap/config.d.ts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/bootstrap/context.d.ts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/bootstrap/cookie.d.ts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/bootstrap/edge_function.d.ts
+node_modules/.deno/@netlify+edge-functions@2.8.1/node_modules/@netlify/edge-functions/node/dist/bootstrap/globals.d.ts
+node_modules/@netlify/edge-functions
