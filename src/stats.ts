@@ -10,7 +10,7 @@ export const simpleStats = `<svg width="800" height="600" xmlns="http://www.w3.o
       stroke-width="0" id="svg_3" y="141.89889" x="328.55807" fill="#a855f7">3 kyu</text>
     <text style="cursor: move;" transform="matrix(1.72157 0 0 1.38001 -282.47 -74.5433)" stroke="#ffffff"
       font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Assistant'"
-      font-size="18" stroke-width="0" id="svg_4" y="90.80239" x="178.72661" fill="#a855f7">Margo's Codewars Stats</text>
+      font-size="18" stroke-width="0" id="svg_4" y="90.80239" x="178.72661" fill="#a855f7">LOGIN's Codewars Stats</text>
     <text style="cursor: move;" transform="matrix(1.21312 0 0 1.42383 -135.727 -81.1336)" stroke="#ffffff"
       font-style="normal" font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Assistant'"
       font-size="14" stroke-width="0" id="svg_6" y="179.19068" x="267.82432" fill="#ffffff">SKILLS</text>
@@ -37,7 +37,7 @@ export const simpleStats = `<svg width="800" height="600" xmlns="http://www.w3.o
       font-size="14" stroke-width="0" id="svg_2" y="164.00641" x="266.43234" fill="#ffffff">POSITION</text>
     <text transform="matrix(1.21312 0 0 1.38001 -133.727 -74.5433)" stroke="#ffffff" font-style="normal"
       font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="14"
-      stroke-width="0" id="svg_11" y="149.07315" x="132.72005" fill="#ffffff">Solved Katas:</text>
+      stroke-width="0" id="svg_11" y="149.07315" x="132.72005" fill="#ffffff">Total Completed Kata:</text>
     <text transform="matrix(1.21312 0 0 1.38001 -133.727 -74.5433)" stroke="#ffffff" font-style="normal"
       font-weight="normal" xml:space="preserve" text-anchor="start" font-family="'Assistant'" font-size="14"
       stroke-width="0" id="svg_14" y="148.34852" x="266.17568" fill="#ffffff">SOLVED</text>
